@@ -4,7 +4,6 @@
 - Name: Robert
 - University: Park University
 - Student ID: 1756123
-- Program: (Your program here)
 
 ## 💻 About Me
 I am a student at Park University interested in software development, cloud computing, and open source.
@@ -23,5 +22,4 @@ I am currently learning:
 ## 📂 Projects (Coming Soon)
 This repository is my introduction repository for GitHub Education.
 
-## 🌐 Links
-- GitHub: https://github.com/YOUR_USERNAME
+
